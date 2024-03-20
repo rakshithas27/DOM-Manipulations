@@ -15,4 +15,3 @@ function handleFormSubmit(event) {
   localStorage.setItem('User Details', jsonObj)
   
 }
-//module.exports = handleFormSubmit
